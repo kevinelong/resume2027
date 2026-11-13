@@ -63,12 +63,4 @@ PUBLICATIONS AND AWARDS
 INTERESTS
   Cue-Sports, Disc-Golf, Table-Tennis, Strategy-Games, Screen-Writing,
   Figurative-Art, Psychology, and Volunteering.
-
-+----------------------------------------------------------------------------+
-| Build beautiful things. Help people grow.                                  |
-+----------------------------------------------------------------------------+
 ```
-
-This public repository intentionally contains only the current shareable
-resume and headshot. Working files, source photos, prompts, and revision
-history remain private.
