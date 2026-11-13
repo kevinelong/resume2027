@@ -61,8 +61,8 @@ PUBLICATIONS AND AWARDS
   Elite Instructor                         |  Pluralsight
 
 INTERESTS
-  Cue-Sports, Disc-Golf, Table-Tennis, Strategy-Games, Fiction,
-  Illustration, Animation, Volunteering, and Human-Potential.
+  Cue-Sports, Disc-Golf, Table-Tennis, Strategy-Games, Screen-Writing,
+  Figurative-Art, Psychology, Volunteering, and Human-Potential.
 
 +----------------------------------------------------------------------------+
 | Build beautiful things. Help people grow.                                  |
