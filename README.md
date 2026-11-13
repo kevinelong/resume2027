@@ -62,7 +62,7 @@ PUBLICATIONS AND AWARDS
 
 INTERESTS
   Cue-Sports, Disc-Golf, Table-Tennis, Strategy-Games, Screen-Writing,
-  Figurative-Art, Psychology, Volunteering, and Human-Potential.
+  Figurative-Art, Psychology, and Volunteering.
 
 +----------------------------------------------------------------------------+
 | Build beautiful things. Help people grow.                                  |
