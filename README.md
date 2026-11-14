@@ -11,8 +11,8 @@
 ```text
 +----------------------------------------------------------------------------+
 | KEVIN ERNEST LONG                                                          |
-| Hands-On Technology Leader in Software Engineering, Product Design,        |
-| and Education                                                              |
+| Hands-On Technology Leader in Software Engineering, Product Design         |
+| & Education                                                                |
 | Portland, OR area  |  linkedin.com/in/kevinelong                           |
 +----------------------------------------------------------------------------+
 
@@ -22,41 +22,45 @@ PROFILE
   spans identity and security, e-commerce, games, and software for businesses
   and consumers.
 
-SELECTED CONTRIBUTIONS
-  Building products and systems
-    Designed products and platforms for Palm, Concur, iovation, Dinerware,
-    Janrain, and DrCloudEMR.
+CONTRIBUTIONS
+  Product & Engineering Leadership
+    Led engineering and product initiatives, designed core SaaS modules and
+    partner integrations, and improved critical response times 100x at
+    DrCloudEMR; delivered systems for Palm, Concur, iovation, Dinerware,
+    and Janrain.
 
-  Connecting engineering and design
-    Combined software development and architecture with UX and UI design
-    through CleverClever. Clients include
-    Intel, Nike, Symantec, Oregon State University, and Portland General
-    Electric.
+  Architecture & Product Design
+    Combined full-stack development, architecture, APIs, data design, and
+    UX & UI through CleverClever. Clients include Intel, Nike, Symantec,
+    Oregon State University, and Portland General Electric.
 
-  Teaching and mentoring
-    Taught JavaScript, Python, Java, Swift, and AI/ML for Salesforce,
-    T-Mobile, Cox Communications, Veterans Administration, U.S. Air Force,
+  Technical Education & Mentoring
+    Designed state-certified software engineering curriculum and a 16-week
+    USAF iOS bootcamp; taught JavaScript, Python, Java, Swift, AI/ML, and TDD
+    for DevelopIntelligence/Pluralsight, Salesforce, T-Mobile, Cox
+    Communications, the Veterans Administration, the U.S. Air Force,
     and Year Up.
 
-SELECTED SKILLS
+SKILLS
   AI/ML
     Decision Support, Recommendation Engines, Rules-Based AI, Market
     Forecasting, Applied Machine Learning, Neural Networks, LLM Integration
-    and APIs, and AI-Assisted Software Development.
+    & APIs, and AI-Assisted Software Development.
 
   Development
     JavaScript/TypeScript, Python, SQL, C++, React, Node.js, Django,
     PostgreSQL, Git, GitHub Projects, and Jira.
 
-  Product and Interaction Design
-    UX and UI Design, Web and Mobile Interfaces, Touchscreens, Kiosks,
+  Product & Interaction Design
+    UX & UI Design, Web & Mobile Interfaces, Touchscreens, Kiosks,
     Set-Top Boxes, Embedded Systems, and Custom Hardware.
 
-  Architecture and Leadership
-    Systems Architecture, Integration, Product and Program Leadership,
-    Technical Training, and Mentoring.
+  Architecture, Leadership & Education
+    Product & Systems Architecture, Identity & Access, API & Data Design,
+    Integration, Performance Engineering, Technical Product Management,
+    Curriculum Design, and Technical Training & Mentoring.
 
-PUBLICATIONS AND AWARDS
+PUBLICATIONS & AWARDS
   PC Game Programming Explorer - Graphics  |  Coriolis Group
   Elite Instructor                         |  Pluralsight
 
